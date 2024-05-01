@@ -11,4 +11,4 @@
 > b - c + a | 3 - 2 + 5  
 
 
-![first task]('./calc.png')
+![first task]('/calc.png')
